@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shanionnn" target="blank"><img src="https://img.shields.io/twitter/follow/shanionnn?logo=twitter&style=for-the-badge" alt="shanionnn" /></a> </p>
 
-- 🔭 I’m currently Study on [Purwadhika Digital Technology School](https://purwadhika.com)
+- 🔭 I graduated from [Purwadhika Digital Technology School](https://purwadhika.com)
 
-- 🌱 I’m currently learning **express.js**
+- 🌱 I’m currently learning **Full-Stack Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wahyudhafayash](https://github.com/wahyudhafayash)
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shanionnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanionnn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad fayash wahyudha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fayash wahyudha" height="30" width="40" /></a>
 <a href="https://instagram.com/wahyudhafayash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahyudhafayash_" height="30" width="40" /></a>
 </p>
